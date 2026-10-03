@@ -1,0 +1,15 @@
+- Delete photos feature
+- Colour palette open and close
+- Create colour palette (does not do it for all images, only selected ones, and it shows up when you click on it)
+- Flip canvas / flip images
+- Import a colour palette and it creates like a photo/display of it
+- Zoom in/zoom out canvas
+
+- add little window showing the hotkeys
+- colour picker
+- you can make photos monochrome, or hue/saturation/brightness
+- export image (only in the range of the photos)
+- you can lock / unlock canvas
+
+fixme: canvas lock not working
+export image exports in boundary of photos, not including colour palettes
